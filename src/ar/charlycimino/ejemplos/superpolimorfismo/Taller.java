@@ -1,4 +1,4 @@
-package superpolimorfismo;
+package ar.charlycimino.ejemplos.superpolimorfismo;
 
 import java.util.ArrayList;
 
